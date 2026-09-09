@@ -52,7 +52,7 @@ DevOps & Tools :  Docker · Git · CI/CD · Linux · n8n
 |---|---|---|
 | **[Prosody](https://prosody.co.in)** — meeting-intelligence SaaS. Zoom/Teams transcripts → verified Jira/ClickUp tickets via a custom MCP server + Claude. | `Next.js` `Django` `MCP` `Claude API` | Live |
 | **[PujaGuru](https://realparthiv.github.io/work/pujaguru/)** — MCP-powered conversational booking, zero UI. | `Django` `MCP` `WebSockets` | Shipped |
-| **[AcademicShield](https://academicshield.world)** — blockchain certificate verification, tamper-proof. | `Solidity` `Ethereum` `Django` | Live |
+| **[AcademicShield](https://realparthiv.github.io/work/academicshield/)** — blockchain certificate verification, tamper-proof. | `Solidity` `Ethereum` `Django` | Live |
 | **[NoMoreGuilts](https://nomoreguilts.com)** — anonymous professional confession platform. | `Django` `React` `scikit-learn` | Live |
 | **[ProfitPulse](https://realparthiv.github.io/work/profitpulse/)** — trading intelligence dashboard, XGBoost signals. | `React` `Django` `XGBoost` | Shipped |
 | **[NeuroType](https://realparthiv.github.io/work/neurotype/)** — BiLSTM next-word prediction, served real-time. | `TensorFlow` `FastAPI` `React` | Shipped |
@@ -65,15 +65,6 @@ DevOps & Tools :  Docker · Git · CI/CD · Linux · n8n
 - **[Trusting AI Agents](https://realparthiv.github.io/blog/trusting-ai-agents/)** — what blockchain verification taught me about agent tool calls
 - **[The Reversal Curse](https://realparthiv.github.io/blog/the-reversal-curse/)** — why "A = B" doesn't teach a model "B = A"
 
----
-
-### `> stats --github`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=realParthiv&theme=tokyo-night&hide_border=true&bg_color=0a0014&color=9d6ef5&line=5b21b6&point=e2d9f3&area=true&area_color=1e0050&radius=6" width="100%"/>
-
-</div>
 
 ---
 
